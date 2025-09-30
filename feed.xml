@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>饕餮DE博客</title>
+    <link href="https://telltearown.github.io/feed.xml" rel="self" />
+    <link href="https://telltearown.github.io" />
+    <updated>2025-09-30T12:10:48+08:00</updated>
+    <author>
+        <name>饕餮同学</name>
+    </author>
+    <id>https://telltearown.github.io</id>
+
+    <entry>
+        <title>那年夏末</title>
+        <author>
+            <name>饕餮同学</name>
+        </author>
+        <link href="https://telltearown.github.io/na-nian-xia-mo.html"/>
+        <id>https://telltearown.github.io/na-nian-xia-mo.html</id>
+            <category term="视觉小说"/>
+            <category term="Steam"/>
+
+        <updated>2025-09-30T12:03:41+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="330" height="86" frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&amp;id=2725873551&amp;auto=1&amp;height=66"></iframe></div>
+<blockquote>
+<p>“那边有人吗？”</p>
+</blockquote>
+<p>我的声音像是回声一样，撞在了小巷的墙壁上。</p>
+<p>没有听到回应。</p>
+<blockquote>
+<p>“是谁”</p>
+</blockquote>
+<p>是我在找的那个少女吗？</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>古诗词</title>
+        <author>
+            <name>饕餮同学</name>
+        </author>
+        <link href="https://telltearown.github.io/tian-dao.html"/>
+        <id>https://telltearown.github.io/tian-dao.html</id>
+            <category term="诗词"/>
+            <category term="古文"/>
+
+        <updated>2025-09-29T13:07:49+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="align-center"><strong>天道</strong></h1>
+<h4 class="align-center msg msg--highlight "><strong><em>穷达皆由命，何劳发叹声。</em></strong><br><strong><em>但知行好事，莫要问前程。</em></strong><br><strong><em>冬去冰须泮，春来草自生。</em></strong><br><strong><em>请君观此理，天道甚分明。</em></strong></h4>
+            ]]>
+        </content>
+    </entry>
+</feed>
