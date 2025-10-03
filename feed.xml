@@ -3,16 +3,16 @@
     <title>饕餮DE博客</title>
     <link href="https://telltearown.github.io/feed.xml" rel="self" />
     <link href="https://telltearown.github.io" />
-    <updated>2025-09-30T12:10:48+08:00</updated>
+    <updated>2025-09-30T12:04:10+08:00</updated>
     <author>
-        <name>饕餮同学</name>
+        <name>是饕餮哇</name>
     </author>
     <id>https://telltearown.github.io</id>
 
     <entry>
         <title>那年夏末</title>
         <author>
-            <name>饕餮同学</name>
+            <name>是饕餮哇</name>
         </author>
         <link href="https://telltearown.github.io/na-nian-xia-mo.html"/>
         <id>https://telltearown.github.io/na-nian-xia-mo.html</id>
@@ -20,10 +20,9 @@
             <category term="Steam"/>
 
         <updated>2025-09-30T12:03:41+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="330" height="86" frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&amp;id=2725873551&amp;auto=1&amp;height=66"></iframe></div>
+            <summary>
+                <![CDATA[
+                    <div class="post__iframe"><iframe loading="lazy" width="298" height="52" frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&amp;id=2725873551&amp;auto=1&amp;height=32"></iframe></div>
 <blockquote>
 <p>“那边有人吗？”</p>
 </blockquote>
@@ -33,13 +32,30 @@
 <p>“是谁”</p>
 </blockquote>
 <p>是我在找的那个少女吗？</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="298" height="52" frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&amp;id=2725873551&amp;auto=1&amp;height=32"></iframe></div>
+<blockquote>
+<p>“那边有人吗？”</p>
+</blockquote>
+<p>我的声音像是回声一样，撞在了小巷的墙壁上。</p>
+<p>没有听到回应。</p>
+<blockquote>
+<p>“是谁”</p>
+</blockquote>
+<p>是我在找的那个少女吗？</p>
+
+<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
         <title>古诗词</title>
         <author>
-            <name>饕餮同学</name>
+            <name>是饕餮哇</name>
         </author>
         <link href="https://telltearown.github.io/tian-dao.html"/>
         <id>https://telltearown.github.io/tian-dao.html</id>
