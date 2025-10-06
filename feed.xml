@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>饕餮DE博客</title>
-    <link href="https://telltearown.github.io/feed.xml" rel="self" />
-    <link href="https://telltearown.github.io" />
-    <updated>2025-09-29T13:10:58+08:00</updated>
+    <link href="https://blog.telltear.cn/feed.xml" rel="self" />
+    <link href="https://blog.telltear.cn" />
+    <updated>2025-10-06T18:36:26+08:00</updated>
     <author>
         <name>是饕餮哇</name>
     </author>
-    <id>https://telltearown.github.io</id>
+    <id>https://blog.telltear.cn</id>
 
     <entry>
-        <title>古诗词</title>
+        <title>天道</title>
         <author>
             <name>是饕餮哇</name>
         </author>
-        <link href="https://telltearown.github.io/tian-dao.html"/>
-        <id>https://telltearown.github.io/tian-dao.html</id>
+        <link href="https://blog.telltear.cn/tian-dao.html"/>
+        <id>https://blog.telltear.cn/tian-dao.html</id>
             <category term="诗词"/>
             <category term="古文"/>
 
         <updated>2025-09-29T13:07:49+08:00</updated>
             <summary>
                 <![CDATA[
-                    天道 穷达皆由命，何劳发叹声。&hellip;
+                    穷达皆由命，何劳发叹声。 但知行好事，莫要问前程。&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1 class="align-center"><strong>天道</strong></h1>
+                <h1 class="align-center"> </h1>
 <h4 class="align-center msg msg--highlight "><strong><em>穷达皆由命，何劳发叹声。</em></strong><br><strong><em>但知行好事，莫要问前程。</em></strong><br><strong><em>冬去冰须泮，春来草自生。</em></strong><br><strong><em>请君观此理，天道甚分明。</em></strong></h4>
             ]]>
         </content>

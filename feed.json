@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "饕餮DE博客",
     "description": "",
-    "home_page_url": "https://telltearown.github.io",
-    "feed_url": "https://telltearown.github.io/feed.json",
+    "home_page_url": "https://blog.telltear.cn",
+    "feed_url": "https://blog.telltear.cn/feed.json",
     "user_comment": "",
-    "icon": "https://telltearown.github.io/media/website/unnamed-modified.png",
+    "icon": "https://blog.telltear.cn/media/website/unnamed-modified.png",
     "author": {
         "name": "是饕餮哇"
     },
     "items": [
         {
-            "id": "https://telltearown.github.io/tian-dao.html",
-            "url": "https://telltearown.github.io/tian-dao.html",
-            "title": "古诗词",
-            "summary": "天道 穷达皆由命，何劳发叹声。&hellip;",
-            "content_html": "<h1 class=\"align-center\"><strong>天道</strong></h1>\n<h4 class=\"align-center msg msg--highlight \"><strong><em>穷达皆由命，何劳发叹声。</em></strong><br><strong><em>但知行好事，莫要问前程。</em></strong><br><strong><em>冬去冰须泮，春来草自生。</em></strong><br><strong><em>请君观此理，天道甚分明。</em></strong></h4>",
+            "id": "https://blog.telltear.cn/tian-dao.html",
+            "url": "https://blog.telltear.cn/tian-dao.html",
+            "title": "天道",
+            "summary": "穷达皆由命，何劳发叹声。 但知行好事，莫要问前程。&hellip;",
+            "content_html": "<h1 class=\"align-center\"> </h1>\n<h4 class=\"align-center msg msg--highlight \"><strong><em>穷达皆由命，何劳发叹声。</em></strong><br><strong><em>但知行好事，莫要问前程。</em></strong><br><strong><em>冬去冰须泮，春来草自生。</em></strong><br><strong><em>请君观此理，天道甚分明。</em></strong></h4>",
             "author": {
                 "name": "是饕餮哇"
             },
@@ -24,7 +24,7 @@
                    "古文"
             ],
             "date_published": "2025-09-29T13:07:49+08:00",
-            "date_modified": "2025-09-29T13:10:58+08:00"
+            "date_modified": "2025-10-06T18:36:26+08:00"
         }
     ]
 }
