@@ -3,44 +3,12 @@
     <title>饕餮DE博客</title>
     <link href="https://telltearown.github.io/feed.xml" rel="self" />
     <link href="https://telltearown.github.io" />
-    <updated>2025-10-03T15:10:12+08:00</updated>
+    <updated>2025-09-29T13:10:58+08:00</updated>
     <author>
         <name>是饕餮哇</name>
     </author>
     <id>https://telltearown.github.io</id>
 
-    <entry>
-        <title>那年夏末</title>
-        <author>
-            <name>是饕餮哇</name>
-        </author>
-        <link href="https://telltearown.github.io/na-nian-xia-mo.html"/>
-        <id>https://telltearown.github.io/na-nian-xia-mo.html</id>
-            <category term="视觉小说"/>
-            <category term="Steam"/>
-
-        <updated>2025-09-30T12:03:41+08:00</updated>
-            <summary>
-                <![CDATA[
-                    “那边有人吗？”&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="174" height="21" style="width: 174px; height: 21px;" frameborder="no" border="0" marginwidth="0" marginheight="0" src="//music.163.com/outchain/player?type=2&amp;id=2725873551&amp;auto=1&amp;height=32"></iframe></div>
-<blockquote>
-<p>“那边有人吗？”</p>
-</blockquote>
-<p>我的声音像是回声一样，撞在了小巷的墙壁上。</p>
-<p>没有听到回应。</p>
-<blockquote>
-<p>“是谁”</p>
-</blockquote>
-<p>是我在找的那个少女吗？</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>古诗词</title>
         <author>
@@ -54,7 +22,7 @@
         <updated>2025-09-29T13:07:49+08:00</updated>
             <summary>
                 <![CDATA[
-                    天道&hellip;
+                    天道 穷达皆由命，何劳发叹声。&hellip;
                 ]]>
             </summary>
         <content type="html">

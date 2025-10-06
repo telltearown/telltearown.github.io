@@ -5,32 +5,16 @@
     "home_page_url": "https://telltearown.github.io",
     "feed_url": "https://telltearown.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://telltearown.github.io/media/website/retouch_2025092917253123.png",
+    "icon": "https://telltearown.github.io/media/website/unnamed-modified.png",
     "author": {
         "name": "是饕餮哇"
     },
     "items": [
         {
-            "id": "https://telltearown.github.io/na-nian-xia-mo.html",
-            "url": "https://telltearown.github.io/na-nian-xia-mo.html",
-            "title": "那年夏末",
-            "summary": "“那边有人吗？”&hellip;",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"174\" height=\"21\" style=\"width: 174px; height: 21px;\" frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" src=\"//music.163.com/outchain/player?type=2&amp;id=2725873551&amp;auto=1&amp;height=32\"></iframe></div>\n<blockquote>\n<p>“那边有人吗？”</p>\n</blockquote>\n<p>我的声音像是回声一样，撞在了小巷的墙壁上。</p>\n<p>没有听到回应。</p>\n<blockquote>\n<p>“是谁”</p>\n</blockquote>\n<p>是我在找的那个少女吗？</p>\n<p> </p>",
-            "author": {
-                "name": "是饕餮哇"
-            },
-            "tags": [
-                   "视觉小说",
-                   "Steam"
-            ],
-            "date_published": "2025-09-30T12:03:41+08:00",
-            "date_modified": "2025-10-03T15:10:12+08:00"
-        },
-        {
             "id": "https://telltearown.github.io/tian-dao.html",
             "url": "https://telltearown.github.io/tian-dao.html",
             "title": "古诗词",
-            "summary": "天道&hellip;",
+            "summary": "天道 穷达皆由命，何劳发叹声。&hellip;",
             "content_html": "<h1 class=\"align-center\"><strong>天道</strong></h1>\n<h4 class=\"align-center msg msg--highlight \"><strong><em>穷达皆由命，何劳发叹声。</em></strong><br><strong><em>但知行好事，莫要问前程。</em></strong><br><strong><em>冬去冰须泮，春来草自生。</em></strong><br><strong><em>请君观此理，天道甚分明。</em></strong></h4>",
             "author": {
                 "name": "是饕餮哇"
