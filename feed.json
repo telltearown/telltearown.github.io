@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://blog.telltear.cn/kdeshang-steamqi-dong-wen-ti.html",
+            "url": "https://blog.telltear.cn/kdeshang-steamqi-dong-wen-ti.html",
+            "title": "KDE上Steam启动问题",
+            "summary": "当你使用X11或者是Wayland的图形界面程式的话，你会发现Steam只要装了Deb包在你的系统上的那一刻图形化打开方式已经爆炸了。然而这个时候你还想着终端启动它那就太难了。于是反复逼问AI的情况下，Linux小白已经完全掌握了！（助威！！！） 首先把当前环境全部导出到文件：&hellip;",
+            "content_html": "<p>当你使用X11或者是Wayland的图形界面程式的话，你会发现Steam只要装了Deb包在你的系统上的那一刻图形化打开方式已经爆炸了。然而这个时候你还想着终端启动它那就太难了。于是反复逼问AI的情况下，Linux小白已经完全掌握了！（助威！！！）</p>\n<p><strong>首先把当前环境全部导出到文件：</strong></p>\n<p><code>env | grep -E '^(PATH|LD_|GTK_|QT_|XDG_|GALLIUM|VK_|DRI|LIBGL)' &gt; </code><code>~/.steam_env</code></p>\n<p><strong>再给Steam单独写一行：</strong></p>\n<p><code></code><code>echo 'export GDK_BACKEND=x11' &gt;&gt; ~/.steam_env</code></p>\n<p><strong>建一个 “带环境” 的包装脚本：</strong></p>\n<p><code>mkdir -p ~/.local/bin</code><br><code>nano ~/.local/bin/steam-wrapper</code></p>\n<p><strong>加入这些：</strong></p>\n<p><code>#!/bin/bash</code><br><code># 先加载刚才dump下来的完整环境</code><br><code>set -a</code><br><code>source ~/.steam_env</code><br><code>set +a</code><br><code># 再启动真正的steam</code><br><code>exec /usr/bin/steam \"$@\"</code></p>\n<p><strong>赋予权限：</strong></p>\n<p><code>chmod +x ~/.local/bin/steam-wrapper</code></p>\n<p><strong>复制一份 desktop 文件到本地：</strong></p>\n<p><code>cp /usr/share/applications/steam.desktop ~/.local/share/applications/</code><br><code>sed -i 's|Exec=/usr/bin/steam|Exec=/home/'$USER'/.local/bin/steam-wrapper|' \\</code><br><code>       ~/.local/share/applications/steam.desktop</code><br><br></p>\n<p> </p>",
+            "author": {
+                "name": "是饕餮哇"
+            },
+            "tags": [
+                   "Steam",
+                   "Linux"
+            ],
+            "date_published": "2025-10-08T18:05:04+08:00",
+            "date_modified": "2025-10-08T18:05:27+08:00"
+        },
+        {
             "id": "https://blog.telltear.cn/tian-dao.html",
             "url": "https://blog.telltear.cn/tian-dao.html",
             "title": "天道",
